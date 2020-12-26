@@ -1,7 +1,7 @@
 === Starter Plugin ===
-Contributors: arunbasillal
+Contributors: arunbasillal,waptug
 Donate link: http://millionclues.com/donate/
-Tags: add, some, tags
+Tags: plr,importer,WordPress,plugin
 Requires at least: 2.0
 Tested up to: 4.8.1
 Requires PHP: 5.5
@@ -11,11 +11,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 REMOVE ME: Validate using: https://wordpress.org/plugins/about/validator/
 
-Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
-
+GeekZoneArticleImporter - PLR Article importer for WordPress. Flatfile importer for plr articles
 == Description ==
 
-This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
+This plugin will allow you to import flatfile text articles from standard (PLR)Private Lable Reseller article directories
+availbale form Leadspidea.com.
+
+
 
 For backwards compatibility, if this section is missing, the full length of the short description will be used, and
 Markdown parsed.
