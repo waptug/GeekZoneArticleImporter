@@ -35,7 +35,7 @@ $userID=1;
 //@TODO add a ui for selecting the base ininteraqctively or create a way to upload to a folder by dragging in a folder of articles.
 
 //define('BASE_ARTICLE_PATH','c:\\\\Users\\waptu\\Local Sites\\testblog\\app\\public\\wp-content\\uploads\\');
-define('BASE_ARTICLE_PATH','c:\\\\Users\\waptu\\Local Sites\\testblog\\app\\public\\100000articles-PLR-articles\\');
+define('BASE_ARTICLE_PATH','c:\\\\Users\\waptu\\Local Sites\\testblog\\app\\public\\100000articles-PLR-articles\\');//needs to point to root of where the articles are.
 //define('TARGET_FILE', '7_Benefits_Of_Building_Niche_Blogs.txt');//
 // echo file_get_contents(MY_WP_PATH . TARGET_FILE);
 //echo "<br>";
@@ -237,7 +237,7 @@ function import_to_blog_post($articlContent){
 echo '<br>import_to_blog_post called<br>';
 
 //define('MY_WP_PATH', '/home3/mygee4dx/leadspidea.com/Internet_Marketing/');
-define('MY_WP_PATH','c:\\\\Users\\waptu\\Local Sites\\testblog\\app\\public\\');
+define('MY_WP_PATH','c:\\\\Users\\waptu\\Local Sites\\testblog\\app\\public\\');//needs to point to the root of the WordPress site you are using.
 
 //define('CUTENEWS_FILE', '_One_Niche_You_re_Rich_.txt');
 //define('CUTENEWS_FILE', '_One_Niche_You_re_Rich_.txt');
