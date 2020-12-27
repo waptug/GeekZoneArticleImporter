@@ -10,3 +10,26 @@ Author: Michael Scott McGinn
 Date: December 26, 2020             
 
 
+ToDo:
+
+Grab keywords from file and add them as tags to the post.
+
+Grab Folder names from directory and add them as categories of post
+
+Insure file is in UTF8 so odd charecters don't get left out or converted incorrectly or deal with the char set of the file natively for non utf8 types.
+
+Automate searching and uploading for stock photos from unsplash based on categorie and keywords to populate the article and set as featuered image of the post
+
+Create UI for plugin admin for selecting various settings.
+
+Create a way to import a folder of articles into the wp-content/uploads and maintain the folder nesting structure so the parsing will pick up the parent/child relationships of the 
+ categories and keywords.
+
+Create UI for admin to monitor and control progress of file uploading to manage time outs for large article sets.
+
+Create a general free form parser to analyse non standard flat file formats to allow for broder use case importing.
+
+Create a way to add on to plugin with file format templates for various file types of other flat file cms systems.
+
+
+
