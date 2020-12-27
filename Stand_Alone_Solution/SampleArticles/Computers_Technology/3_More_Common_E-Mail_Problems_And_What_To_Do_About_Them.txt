@@ -1,0 +1,60 @@
+Title: 
+3 More Common E-Mail Problems And What To Do About Them
+
+Word Count:
+1220
+
+Summary:
+As we continue to evolve into the world of e-mail that is part of our everyday life, sometimes little problems arise that bother the user.  Previously we talked about returned messages and lost connections, both which can be aggravating, and supplied solutions.  But there are a few more problems that can affect an e-mail user causing frustration and we will address these here, and again provide reasonable solutions to over come them.
+
+
+Keywords:
+email, e-mail, problem, web mail, articles
+
+
+Article Body:
+As we continue to evolve into the world of e-mail that is part of our everyday life, sometimes little problems arise that bother the user.  Previously we talked about returned messages and lost connections, both which can be aggravating, and supplied solutions.  But there are a few more problems that can affect an e-mail user causing frustration and we will address these here, and again provide reasonable solutions to over come them.
+
+Problem 1 – You Cannot Send a Message
+
+Even when there is not a connection problem, you may attempt to send email, but find that it continues to remain in your outbox.
+
+Solution 
+
+Typically this is a software problem, the result of otherwise unapparent damage or corruption to one or more e-mail messages.  To address this problem, first copy any unsent messages as text.  Then save them on the computer's hard drive or a back-up storage medium.  After all messages have been saved, highlight all the messages in your outbox and click on “delete” or “clear”.  When clearing your outbox, start over.  Just copy unsent messages from the text files, pass them into new e-mail messages and resend. 
+
+Problem 2 – The E-mail is Missing an Attachment or the Attachment Won't Open
+
+An especially handy feature of e-mail is the ability to send and receive attachments.  Transmitting documents, photos or other such information can save time and money compared to the U.S. Mail or express delivery services.  At the same time, attachments can be real headaches.  A common frustration is to receive an e-mail message that refers to an attachment, but then find nothing is there.
+
+Solutions
+
+Often the best solution is to request that the sender try once again, since it is not unusual for the writer to refer to an attachment, but then forget to attach it.  Even if this is not the case, your request might prompt the sender to re-think the attachment's format before transmitting again.  If the problem continues, consider asking the sender to paste the contents inside an e-mail message and try again.  This may disrupt formatting, but can be an effective way to circumvent attachment problems. 
+
+If you see a message that the attachment has been deleted, it may be that your anti-virus software has detected a virus, and you're better off without it anyway.  But if you find that all attachments are indiscriminately being deleted, check your mail properties.  If a box is checked that blocks all attachments, remove the check mark so that you can receive attachments.  If you then receive a message from an unknown person, or if the message or attachment seems suspicious, delete the message without opening the attachment. 
+
+A related problem is to see that an attachment has been transmitted, but find that you are unable to open it.  The causes (and thus the solutions) vary.  In some cases, the problem is that the software used by the sender does not match that of the recipient.  As with a missing attachment, a simple fix is to ask the sender to copy and paste the contents of the attachment within a follow up mail message.  Even if formatting is disrupted, you can still get the gist of the information.  You can also use your own copying and pasting process to reformat the contents, if that is important. 
+
+Another strategy is to save the document to your hard drive, and then open the software program that was used initially to create it.  Once this program is in use, your computer may be able to recognize what had been the attachment, and open it.  If you do not have the appropriate software loaded on your computer, you may be able to download it from the Internet; just follow the on screen prompts to proceed.
+
+Problem 3 – You Have too Much Incoming Mail or Cannot Download What You Have 
+
+If you are receiving large volumes of e-mail, you may be vulnerable to several difficulties.
+
+Solutions
+
+Many Internet service providers place limits on the amount of storage provided to each user (although some have recently increased storage limits).  If a pre-set limit is reached (perhaps because you've gone too long without downloading your e-mail, or have been inundated by SPAM or virus induced flood of messages), additional messages will be bounced back to those who sent them.
+
+Of course the direct approach is to download your mail and then weed it out, but a smarter move may be to access your e-mail account via Web mail.  That way you can see a listing of all messages and quickly delete any that do not appear to be of interest.  The end result is the same, but this step can save a great deal of downloading time if you're using a dial up modem.  It also adds an extra measure of virus protection even if you have a broadband connection.  Since you're deleting messages from your ISP's server before they ever have a chance to infect your computer, it's like killing mosquitoes before they bite you – instead of afterwards. 
+
+If you do not have a Web mail account, it's easy to get one.  Simply go to a provider such as Yahoo (www.yahoo.com) or Lycos (www.lycos.com) and register.  You can also use a site such as mail2web (www.mail2web.com) or webmail4free.com without even registering.  Go to the site and enter you e-mail address and password.  You will see a listing of all incoming mail, which you can read and then retain for downloading, or delete, as you choose.
+
+A similar challenge may be caused by unusually large message.  Again, this problem is more common with dial-up modems, where hefty messages may take an annoyingly long time to download.  In the worst cases, you may find yourself unable to receive other messages, because the connection with the server where your messages are stored is severed when a time limit has been reached.
+
+Use of Web mail can also do the trick here.  Just log on to the third-party site, peruse the list of messages in your inbox, and choose the one that is the largest (most Web mail programs automatically list the size of each message).  If the message seems of potential interest, open and read it, and then delete it.  Or if it is obviously spam or something in which you have no interest, you can delete the message without even bothering to read it.  Once you have removed the offending message, your other incoming mail will no longer be blocked.
+
+If you do not have Web mail, an option is to contact your Internet Service Provider and ask for help.  Once a customer service representative deletes the offending message from the ISP's server, you can then download all remaining messages.
+
+Also keep in mind that retaining too much e-mail can be an organizational problem, if not a technical one.  Take time to delete e-mail that does not need to be saved for future reference.  Allowing too many messages to accumulate wastes storage space and makes it more difficult to find important messages when you need to refer to them.  For messages that merit retention, create a series of folders so that they can be readily located, and so that your inbox will not become too full.
+
+

@@ -1,0 +1,48 @@
+Title: 
+2 Common E-Mail Problems and What To Do About Them
+
+Word Count:
+822
+
+Summary:
+When it works well, e-mail can be great.  It's hard to beat e-mail for everything from staying in touch with family to requesting information from businesses or other organizations.  Want to send the same message to several people?  Communicate with someone across the continent?  Transmit photos, manuscripts or other information?  For speed and efficiency, this virtually instantaneous medium is one of the most convenient features of modern life.
+
+
+Keywords:
+email, e-mail, problem, Outlook, Outlook Express, dial-up
+
+
+Article Body:
+When it works well, e-mail can be great.  It's hard to beat e-mail for everything from staying in touch with family to requesting information from businesses or other organizations.  Want to send the same message to several people?  Communicate with someone across the continent?  Transmit photos, manuscripts or other information?  For speed and efficiency, this virtually instantaneous medium is one of the most convenient features of modern life.
+
+But e-mail is not without problems.  If you key in the name of an intended recipient but your message keeps bouncing back, you might not be singing e-mail's praises.  Ditto for attachments that won't open or other such nuisances.  With just a little patience, though, you can readily overcome most e-mail problems.  What follows are 4 common e-mail problems along with solutions for overcoming them.
+
+Problem – Returned Messages
+
+This may be the most frustrating of all e-mail problems.  After taking the time to create a message, you click on the “send” button and consider your task accomplished.  But the next thing you know, the message pops up in your in-box with a heading that it did not reach its intended recipient.
+
+Solutions 
+
+First, take the simple step of checking to see that the address of your recipient has been entered correctly.  This may seem obvious, but sometimes the only thing wrong is a misplaced letter, the use of “com” instead  of “net”, or some similar error.  If you know the correct address, this is a straightforward matter of double checking each character.  If not, you might need to experiment by sending multiple messages, or by entering alternative addresses with slight variations.  Under this approach, you simply keep track of which messages are bounced back and compare them with the overall list of addresses you used.  If you sent four variations but only three were returned, you have solved the problem by the process of elimination. 
+
+Sometimes the source of your problem lies with the recipient.  If messages to other addresses go through but fail here, try to contact the intended recipient by other means and report the situation.  The cause may range from a temporary problem with the recipient's server to a switch to another e-mail provider, to a full in box.  In this case, simply waiting may be the best recourse.  Or a phone call or other communication may be required on your part to obtain the correct e-mail address.  If all your messages are being returned, you may have a connection problem.  See below for more details.
+
+Problem 2 – You Have Lost Your Connection
+
+Sometimes a failure to send or receive e-mail can be traced to a lost connection with your Internet service provider. 
+
+Solutions 
+
+If you see a “failure to connect” or “no response” message or have otherwise determined that you have failed to connect, double check to make certain there are no physical problems.
+
+First, check your cables and connections.  If you use a dial-up modem, listen to make sure it produces the normal high-pitched dialing sound.  If not, the problem could be a loose connection.  Locate the phone cord that runs from the back of your computer to the phone jack, and then make sure that each end is plugged in snugly. 
+
+If you will don't hear the expected dialing sound, check to make sure your phone cord is undamaged.  If it seems worn, replace it with a new one.  Other steps include making certain the line is plugged into the right port, and checking the phone jack by plugging the cord into a different jack.  If you hear the dialing sound after any of these steps, you have made a successful connection. 
+
+Connection problems may be more common with dial-up modems than with broadband connections, but the latter are also dependent on physical connections.  A loose wire or poorly connected cable can easily be problematic.  Sometimes a glitch occurs that can be best addressed by repeating portions of the initial set-up process.  A simple fix touted by Verizon technical service reps for some DSL (digital subscriber line) customers is to disconnect the three lines from the back of the modem and then reconnect them in a specified order.  When this action is taken, the online connection is immediately regained. 
+
+If you are online but keep getting bumped off, the lost connection can be the result of an unintended software command.  In Outlook Express, for example, you will find the command “Hang up when finished.”  If the box in front of this phrase is checked, the connection will automatically be severed each time you send or download e-mail.  Sometimes a misdirected click of your mouse will cause you to place a check in the box even though you do not realize it.  Simply click on the check mark to make it disappear, and the hang-ups will cease.
+
+These 2 common e-mail problems are quite easy to determine and when rectified will make your emailing experience more enjoyable.
+
+

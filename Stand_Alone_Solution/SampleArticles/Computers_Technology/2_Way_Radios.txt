@@ -1,0 +1,33 @@
+Title: 
+2 Way Radios
+
+Word Count:
+470
+
+Summary:
+Frequency Considerations for Recreational 2 Way Radios
+
+If you are in the market for 2 way radios for personal use, you have an immediate and important choice to make: What radio frequency band do you require?
+
+Frequency! 2 way radios obviously utilize 'wireless' communication methods so when using a 2 way radio you are transmitting and sending your message through the air -- the same air that is currently carrying television signals, commercial radio signals, Ham radio s...
+
+
+Keywords:
+two way radios, radio, walkie talkie
+
+
+Article Body:
+Frequency Considerations for Recreational 2 Way Radios
+
+If you are in the market for 2 way radios for personal use, you have an immediate and important choice to make: What radio frequency band do you require?
+
+Frequency! 2 way radios obviously utilize 'wireless' communication methods so when using a 2 way radio you are transmitting and sending your message through the air -- the same air that is currently carrying television signals, commercial radio signals, Ham radio signals and literally thousands of signals from other private 2 way radios. The Federal Communications Commission (FCC) has the job of controlling all of these communication signals so they don't run into each other; to accomplish this they have reserved frequency bands for use by certain types of communication (signal sending) devices. There are two frequency bands in use for recreational 2 way radios, these are called Family Radio Service (FRS) and General Mobile Radio Service (GMRS).
+
+In 1996, the FCC reserved a set of radio frequencies they called the Family Radio Service (FRS) band, specifically for short-range 2 way radios (radios that operate no more than 2 miles away from each other) with a small power output (up to 500 milliwatts or one-half watt).
+
+About fifty years before the FCC created the FRS band they had reserved a set of frequencies for higher power 2 way radios that operated over a longer range this is the General Mobile Radio Service (GMRS) band. The GMRS band is for radios with a power output between one and five watts and a range over 2 miles. The FCC regulates the 2 way radios that operate on the GMRS band and requires users of this type of radio to obtain a license and pay a fee. The GMRS license is good for five years and costs $80.00; the license must be obtained by an adult (the radios operating under the license may be used by minors but only with the licensed adult's knowledge and permission). Go to the FCC's Internet page at: http://wireless.fcc.gov/services/index.htm?job=service_home&id=general_mobile
+for more information on GMRS licensing.
+
+When buying 2 way radios, your choice is between a set of radios that operates only on one of these frequency bands or a set of radios that is able to operate on either one of these frequency bands. This determination will obviously have to be made based on the maximum distance the radio users will be from each other. If the radios are to be used within two miles of each other, FRS will be the best (and least expensive) choice. If a greater distance is consistently required, 2 way radios that operate on the GMRS frequency band will be required. If the need for distance is uncertain or if you want the option of occasionally transmitting up to five miles a FRS/GMRS hybrid is the radio set to choose.
+
+

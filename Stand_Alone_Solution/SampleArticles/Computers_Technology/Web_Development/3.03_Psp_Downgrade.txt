@@ -1,0 +1,40 @@
+Title: 
+3.03 Psp Downgrade
+
+Word Count:
+455
+
+Summary:
+3.03 PSP Downgrade.
+
+So you're looking a 3.03 PSP Downgrade? well this article may help you out.
+
+First and foremost, you need an unpatched copy of Grand Theft Auto Liberty City Stories.
+
+There is no other way that you can downgrade any PSP over 2.81 without it. Now for some reason people don't seem to appreciate this fact and will spend hours upon hours searching the Internet for other ways to downgrade with out the GTA. Let me save you time, there is no other way to d...
+
+
+Keywords:
+3.03 Psp Downgrade, psp downgrade,downgrade psp
+
+
+Article Body:
+3.03 PSP Downgrade.
+
+So you're looking a 3.03 PSP Downgrade? well this article may help you out.
+
+First and foremost, you need an unpatched copy of Grand Theft Auto Liberty City Stories.
+
+There is no other way that you can downgrade any PSP over 2.81 without it. Now for some reason people don't seem to appreciate this fact and will spend hours upon hours searching the Internet for other ways to downgrade with out the GTA. Let me save you time, there is no other way to downgrade any PSP above 2.81 with out the unpatched GTA.
+
+In late 2005 a vulnerability was found in the way the PSP version of GTA: Liberty City Stories processes saved games. In December 2005 software was developed to execute unsigned code on PSPs with firmwares 2.00 through 2.60. In April 2006 firmware 2.70 was released and patched the exploit, however, as of January 25, 2007 it was discovered that Sony did not completely patch the exploit, and unsigned code may be run on 3.03 firmware, a 3.03 downgrader was released 3 days after the exploit was found. Also, new copies of GTA: Liberty City Stories patched the exploit as well, preventing it from being executed on other firmware versions. Since then homebrew has advanced to the point that a copy of GTA: Liberty City Stories is no longer needed to run unsigned code except on firmware versions 2.81 to 3.03. Sony has now blocked the GTA exploit for good with the release of the 3.10 firmware update and later subsequent firmware udates.
+
+So how do I know if I have the right GTA for a 3.03 PSP downgrade? Well, it's quite simple really. Get your copy of GTA Liberty City Stories and put it in your UMD drive, now scroll to the game folder and you will see a "UMD update" option. Now, if this says "Update 2.00" then you have an unpatched version, if it says "Update 2.60" then you have the patched version which is no good for a 3.03 PSP downgrade.
+
+Now all you have to do from here is find the 3.03 downgrader, there are a couple of versions around the Internet which you can download and these are relatively easy to follow . Just be sure you download the software from a reputable place as there are some scumbags around who have put fake downgraders up on the Internet so unsuspecting people can download them and brick their PSPs.
+
+Also, make sure you to follow the steps exactly as they are described, this is very important. If you do one thing out of place, or if you put a file and the wrong place you could effectively brick your PSP, so it is vitally important that you follow instructions when you do at 3.03 PSP downgrade.
+
+I hope this article helps you to successfully do a 3.03 PSP downgrade.
+
+
