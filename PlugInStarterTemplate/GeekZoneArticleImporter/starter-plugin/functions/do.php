@@ -42,6 +42,9 @@ try {
 
 $userID=1;
 
+//Area where I define the path to the base of the wordpress folder where the articles are stored
+//@TODO add a ui for selecting the base ininteraqctively or create a way to upload to a folder by dragging in a folder of articles.
+
 //define('BASE_ARTICLE_PATH','c:\\\\Users\\waptu\\Local Sites\\testblog\\app\\public\\wp-content\\uploads\\');
 define('BASE_ARTICLE_PATH','c:\\\\Users\\waptu\\Local Sites\\testblog\\app\\public\\100000articles-PLR-articles\\');
 //define('TARGET_FILE', '7_Benefits_Of_Building_Niche_Blogs.txt');//
@@ -49,6 +52,8 @@ define('BASE_ARTICLE_PATH','c:\\\\Users\\waptu\\Local Sites\\testblog\\app\\publ
 //echo "<br>";
 
 
+//Start of file processor function:
+//pass the absolute path including the file name in to this function so it will parse the file and extract it properly.
 function fileprocessor($filepath)
 {
 //define('FILE_LOCATION',$filepath);
