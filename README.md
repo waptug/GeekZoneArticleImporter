@@ -37,3 +37,6 @@ Create a way to add on to plugin with file format templates for various file typ
 Once this is working post to WordPress plugin directory at https://wordpress.org/plugins/developers/
 
 
+Contributors:(Add your name here if your working on this)
+
+Michael Scott McGinn (Lead) geekzonehostingllc at gmail.com
