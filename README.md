@@ -34,5 +34,6 @@ Create a general free form parser to analyse non standard flat file formats to a
 
 Create a way to add on to plugin with file format templates for various file types of other flat file cms systems.
 
+Once this is working post to WordPress plugin directory at https://wordpress.org/plugins/developers/
 
 
