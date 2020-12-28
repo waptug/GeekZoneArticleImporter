@@ -8,9 +8,9 @@ Allows user to supply folder path and plugin will import all existing .txt files
 
 Author: Michael Scott McGinn
 Date: December 26, 2020   
-Connect with me on LinkedIn if you would like to join this project.
+Connect with me on LinkedIn then DM me if you would like to join this project.
 https://www.linkedin.com/in/geekzonebooks/
-      
+
 
 
 ToDo:
