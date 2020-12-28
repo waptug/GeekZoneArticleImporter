@@ -15,6 +15,10 @@ https://www.linkedin.com/in/geekzonebooks/
 
 ToDo:
 
+Re-Factor into OPP style code.
+
+Populate plugin template with working code.
+
 Grab keywords from file and add them as tags to the post.
 
 Grab Folder names from directory and add them as categories of post
