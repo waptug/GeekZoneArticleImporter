@@ -17,6 +17,8 @@ ToDo:
 
 Re-Factor into OPP style code.
 
+Create this as a php Class so it can be re-used in larger projects.
+
 Populate plugin template with working code.
 
 Grab keywords from file and add them as tags to the post.
