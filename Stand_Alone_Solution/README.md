@@ -11,3 +11,7 @@ PHP 7.4+ is installed
 Current version of MySql
 Nginx as a web server
 
+It may work on other LAMP stack setups like DDEV or Lando or xampp etc.
+
+Please join this project and help refactor this to better code and eventually turn this into a Actual WordPress Plugin.
+
