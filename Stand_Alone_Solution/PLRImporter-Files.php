@@ -1,6 +1,6 @@
 <?php
 /*
-Find this at Leadspidea.com-to test it
+
 @ToDO Merge the uploader with this and add a catch to assign the category from the content. 
 Add a way to connect a footer info link box into the article content.
 Add a way to set a date range to assign to the articles so they all dont post on the same day
